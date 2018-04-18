@@ -1,0 +1,1 @@
+<h1>Chi tiết loại sản phẩm</h1>
